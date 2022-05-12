@@ -1,0 +1,138 @@
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\ApplicationInsights.config
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\csc.exe
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\vbc.exe
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\BTL-QA.dll.config
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\BTL-QA.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\BTL-QA.pdb
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csprojResolveAssemblyReference.cache
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\obj\Debug\BTL-QA.dll
+c:\users\thien\documents\visual studio 2015\Projects\BTL-QA\BTL-QA\obj\Debug\BTL-QA.pdb
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\ApplicationInsights.config
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\csc.exe
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\vbc.exe
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\BTL-QA.dll.config
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\BTL-QA.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\BTL-QA.pdb
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csprojAssemblyReference.cache
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CopyComplete
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\obj\Debug\BTL-QA.dll
+C:\Users\Thien\Downloads\BTL-QA\BTL-QA\obj\Debug\BTL-QA.pdb
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\ApplicationInsights.config
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\csc.exe
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\vbc.exe
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.dll.config
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.pdb
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csprojAssemblyReference.cache
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CoreCompileInputs.cache
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CopyComplete
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.dll
+C:\Users\trang\Downloads\BTL-WEB-QLy QA 90%-20210414T014356Z-001\BTL-WEB-QLy QA 90_\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.pdb
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\ApplicationInsights.config
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\csc.exe
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\vbc.exe
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.dll.config
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\BTL-QA.pdb
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.DependencyCollector.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.Web.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.AI.WindowsServer.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.ApplicationInsights.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csprojAssemblyReference.cache
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CoreCompileInputs.cache
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.csproj.CopyComplete
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.dll
+E:\BTL-QA(90_)\BTL-QA\BTL-QA\obj\Debug\BTL-QA.pdb

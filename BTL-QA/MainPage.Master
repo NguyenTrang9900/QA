@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainPage.master.cs" Inherits="BTL_QA.MainPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link href="<%=ResolveUrl("~/Trangtri.css") %>" rel="stylesheet" />
+    <script type="text/javascript" src="JavaScript.js">
+
+	</script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+         <div id="br-header">
+        <div class="logo-menu">
+            <img  src="images/logo.jpg" style=" width: 150px;border-radius: 50px;"/>
+            <div class="search">
+                <input class="inputbutton" type="text" id="txtsearch" runat="server" placeholder="Tìm..."></input>
+                <asp:Button ID="BtnTim" runat="server" Text="Tìm kiếm" OnClick="BtnTim_Click" CssClass="btnSearch" /> 
+            </div>
+
+            <div id="menu" style="">
+                <ul>
+                    <li><a href="index.aspx">HOME</a></li>
+                    <li><a href="intro.aspx">GIỚI THIỆU</a></li>
+                    <li>
+                        <a href="Child_page.aspx?type=nam">NAM</a>
+                       
+                    </li>
+                    <li><a href="Child_page.aspx?type=nu">NỮ</a></li>
+                    <li><a href="Child_page.aspx?type=phukien">PHỤ KIỆN</a></li>
+                    <li><a href="#">≡</a>
+                        <ul class="sub-menu">
+                            <li id="loregisterlogin" runat="server"></li> 
+                            <li><a href="cart.aspx">GIỎ HÀNG</a></li>
+                       
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+          
+       
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">      
+        </asp:ContentPlaceHolder>
+             <div id="footerimage">
+            <img src="images/footerimage.png" style="max-width: 1400px; max-height: 500px;padding-top:50px; width: auto;height: auto;"  > 
+        </div>
+              <footer id="ft">
+            <ul style="width: 1090px;padding-top: 45px">
+                <li>
+                    <div class="text">
+                        <h4>AboutUs</h4>
+                        <div>
+                            <hr />
+                            Cửa hàng bán quần áo chất lượng<br />
+                            Địa chỉ: Đường vào trong tim<br />
+                        
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="text">
+                        <h4>Thời gian</h4>
+                        <div>
+                            <hr />
+                            Thứ hai- Thứ Sáu: 7h30-22h
+                            <br />
+                            Thứ bảy- Chủ Nhật: 8h-17h
+                            <br />
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="text">
+                        <h4>Liên Hệ</h4>
+                        <div>
+                            <hr style="">
+                            Hotline
+                            <br>
+                            Email: vuhuythien.com <br />
+                            Email: nguyenthibichthao.com<br />
+                            Email: nguyenthutrang.com<br />
+                            
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </footer>
+    </div>  
+    </div>
+    </form>
+</body>
+</html>
